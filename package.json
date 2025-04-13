@@ -3,7 +3,7 @@
   "description": "Add snap ui components to your apps.",
   "author": "",
   "license": "ISC",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "files": [
     "dist"
